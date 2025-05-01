@@ -9,7 +9,7 @@ In this repository I was create Drag and Drop functionality.
 To move an item from the current column to another column by dragging it.
 
 ## Where is it most used?
-Formlarda, task managerlərdə, SaaS websitelərində və s.
+Forms, task managers, SaaS websites and etc.
 
 ## How do I launch the project?
 Click `Go Live` and run this project.
